@@ -34,4 +34,4 @@ E possúi as seguintes dependencias:
 - Postman: https://www.getpostman.com/
 
 
-Visite o Screencast **[clicando aqui!](http://onebitcode.com/api-completa)**
+Visite o Screencast **[clicando aqui!](http://onebitcode.com/api-completa-rails)**
